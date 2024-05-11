@@ -9,6 +9,10 @@ We performed some experiments to analyze the stability and accuracy of the sorti
 
 
 # Observations: 
+
+
+![Image Alt Text](Screenshot 2024-05-11 at 12.13.26.jpeg)
+
 1. On our synthetic dataset, the model achieved high stability and accuracy even when the embedding dimension was very low compared to our theoretical result for the general data manifold. From these empirical results of the experiment, we found that the stability and accuracy of the model increases with the increase in the embedding dimension D keeping other parameters fixed, e.g. n = 100 and d = 3.
 
 2. Stability of these embeddings increases with the size of the input dataset (synthetic).
