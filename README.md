@@ -13,4 +13,4 @@ We performed some experiments to analyze the stability and accuracy of the sorti
 
 2. Stability of these embeddings increases with the size of the input dataset (synthetic).
 3. Surprisingly, we found that there is no clear relationship between the input size or dimension and the accuracy of the model. This suggests that the accuracy of the embeddings is not as dependent on the size or dimension of the input dataset as it is on the value of the embedding dimension.
-4. 
+   
